@@ -1,0 +1,58 @@
+#header h1{
+	font-family:Helvetica;
+	font-size:100px;
+	font-weight:bold;
+	color:khaki;
+	text-align:center;
+	background:url(https://i.screenshot.net/xjl8zhg);
+	position: relative;
+}
+#brush h2{
+	font-family:Helvetica;
+	font-size:32px;
+	font-weight:bold;
+	color:white;
+	background-color:mediumspringgreen;
+}
+#brush h3,#brush p,#frame h3,#frame p,#paint h3,#paint p{
+	font-family:Helvetica;
+}
+strong {
+	font-family:Helvetica;
+	color:blue;
+}
+#frame h2 {
+	font-family:Helvetica;
+	font-size:32px;
+	font-weight:bold;
+	color:white;
+	background-color:Lightcoral;
+}
+#paint h2{
+	font-family:Helvetica;
+	font-size:32px;
+	font-weight:bold;
+	color:white;
+	background-color:skyblue;
+}
+#separationLine {
+	border: 0;
+    border-bottom: 1px dashed #ccc;
+    background: #999;
+}
+form {
+	display:block;
+	text-align:center;
+	font-family:Helvetica;
+	font-size: 20px;
+}
+.table {
+	text-align:center;
+	font-family:Helvetica;
+	font-size:36px;
+}
+.input {
+	width: 23%;
+    height: 24px;
+    margin: 6px 0 18px;
+}
